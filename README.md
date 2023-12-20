@@ -1,3 +1,5 @@
+# NAME : LOKESH M
+# REGISTER NUMBER: 23001615
 # Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -46,43 +48,91 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+Step 1:Create a new project in Quartus2 software .
+
+Step 2:Name the project as uc for upcounter and dc for down counter.
+
+Step 3:Create a new verilog hdl file in the project file.
+
+Step 4:Name the module declare as dc and uc for down counter and upcounter.
+
+Step 5:Within the module declare input and output variables.
+
+Step 6:Create a loop using if-else with condition parameter as reset.
+
+Step 7:End the loop.
+
+Step 8:End the module
 
 
 
 ### PROGRAM 
-/*
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-
-
-
+# UP Counter:
+```
+Module upcounter(clk,a);
+input clk;
+output reg[3:0];
+always @(posedge clk)
+begin
+a[3]=(a[2]&a[1]&a[0])^a[3];
+a[2]=(a[1]&a[0])^a[2];
+a[1]=(a[0]^a[1]);
+a[0]= ^a[0];
+end
+endmodule
+```
+# DOWN Counter:
+```
+Module downcounter(clk,a);
+input clk;
+output reg[3:0]a;
+always @(posedge clk)
+begin
+a[3]=(~a[2]&~a[1]&~a[0])^a[3];
+a[2]=(~a[1]&~a[0])^a[2];
+a[1]=(~a[0]^a[1]);
+a[0]=1^a[0];
+end
+endmodule
+```
 
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+# UP Counter:
+![upcounter](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/5241a9fc-c687-42f7-afd8-57ee829da377)
 
 
-
-
-
+# DOWN Counter:
+![downcnt](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/72a079b9-a6b5-433f-9042-b5291ddf62fb)
 
 
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+# UP Counter:
+![upcounterwwf](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/30c1885f-d282-4472-9f2b-1eb8c3dd8e2e)
 
+# DOWN Counter:
+![downcounter](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/346c8c94-f8b2-422b-a2ad-c2ebc62e742e)
 
 
 
 ### TRUTH TABLE 
+# UP Counter:
+![down](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/6ce654da-fbc1-4e3a-8d82-667514531b06)
 
 
+
+
+# DOWN Counter:
+
+
+![Up](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/b5483183-a686-480f-8d06-3ae313dd7334)
 
 
 
 
 ### RESULTS 
+Thus synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
