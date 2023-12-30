@@ -133,7 +133,8 @@ endmodule
 ### TIMING DIGRAMS FOR COUNTER  
 
 # UP Counter:
-![image](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/64c03041-d8dc-475a-865e-4d550df24d94)
+![Screenshot](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/940156d1-3105-4aef-b109-d94d3b3a47fd)
+
 
 
 
