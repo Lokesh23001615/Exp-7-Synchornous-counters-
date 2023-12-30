@@ -101,11 +101,13 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 # UP Counter:
-![upcounter](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/5241a9fc-c687-42f7-afd8-57ee829da377)
+![Screenshot 2023-12-30 112138](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/cf7324da-8f7f-419c-93b6-88671a4c9566)
+
 
 
 # DOWN Counter:
-![downcnt](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/72a079b9-a6b5-433f-9042-b5291ddf62fb)
+![Screenshot 2023-12-30 112201](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/99b5a94e-0a2d-425d-82a7-c98154f778af)
+
 
 
 
@@ -113,17 +115,20 @@ endmodule
 ### TIMING DIGRAMS FOR COUNTER  
 
 # UP Counter:
-![Screenshot 2023-12-30 084620](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/e05d4296-5184-46e1-9abb-52ddae9fdeda)
+![Screenshot 2023-12-30 112212](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/fab65066-bdcb-4f3e-803b-c2f311f29768)
+
 
 # DOWN Counter:
-![Screenshot 2023-12-30 084627](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/70d269bc-b038-4cc4-9eda-c48c96966978)
+![Screenshot 2023-12-30 112219](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/945fca9a-da72-4c15-a0e3-67b81beec2ec)
+
 
 
 
 
 ### TRUTH TABLE 
 # UP Counter:
-![Screenshot 2023-12-30 084604](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/8d459074-232f-47af-a22c-98dcef136dd0)
+![Screenshot 2023-12-30 112108](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/2ade334d-db65-43ff-b993-d373cd923509)
+
 
 
 
@@ -131,8 +136,8 @@ endmodule
 
 # DOWN Counter:
 
+![Screenshot 2023-12-30 112126](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/b3acb9fa-f1fb-41bf-aab1-73e501898d5d)
 
-![Screenshot 2023-12-30 084612](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/bb5c51e5-8e04-40ac-9be7-9feb04624add)
 
 
 
