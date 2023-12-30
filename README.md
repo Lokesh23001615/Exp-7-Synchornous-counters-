@@ -112,14 +112,6 @@ endmodule
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
-
-# UP Counter:
-![Screenshot 2023-12-30 112212](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/fab65066-bdcb-4f3e-803b-c2f311f29768)
-
-
-# DOWN Counter:
-![Screenshot 2023-12-30 112219](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/945fca9a-da72-4c15-a0e3-67b81beec2ec)
 
 
 
@@ -127,7 +119,7 @@ endmodule
 
 ### TRUTH TABLE 
 # UP Counter:
-![Screenshot 2023-12-30 112108](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/2ade334d-db65-43ff-b993-d373cd923509)
+![Screenshot 2023-12-30 124017](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/fb4eed78-1f64-453c-8ae9-3eab0ddf3853)
 
 
 
@@ -136,7 +128,18 @@ endmodule
 
 # DOWN Counter:
 
-![Screenshot 2023-12-30 112126](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/b3acb9fa-f1fb-41bf-aab1-73e501898d5d)
+![image](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/83136077-8279-4352-b067-6e3c11da7d79)
+
+### TIMING DIGRAMS FOR COUNTER  
+
+# UP Counter:
+![image](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/64c03041-d8dc-475a-865e-4d550df24d94)
+
+
+
+# DOWN Counter:
+![image](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/785074a4-b65f-45a0-b20f-ebcc296d27ce)
+
 
 
 
