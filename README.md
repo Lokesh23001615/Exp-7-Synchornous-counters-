@@ -113,16 +113,18 @@ endmodule
 ### TIMING DIGRAMS FOR COUNTER  
 
 # UP Counter:
-![upcounterwwf](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/30c1885f-d282-4472-9f2b-1eb8c3dd8e2e)
+![Screenshot 2023-12-30 084620](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/e05d4296-5184-46e1-9abb-52ddae9fdeda)
 
 # DOWN Counter:
-![downcounter](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/346c8c94-f8b2-422b-a2ad-c2ebc62e742e)
+![Screenshot 2023-12-30 084627](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/70d269bc-b038-4cc4-9eda-c48c96966978)
+
 
 
 
 ### TRUTH TABLE 
 # UP Counter:
-![down](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/6ce654da-fbc1-4e3a-8d82-667514531b06)
+![Screenshot 2023-12-30 084604](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/8d459074-232f-47af-a22c-98dcef136dd0)
+
 
 
 
@@ -130,7 +132,8 @@ endmodule
 # DOWN Counter:
 
 
-![Up](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/b5483183-a686-480f-8d06-3ae313dd7334)
+![Screenshot 2023-12-30 084612](https://github.com/Lokesh23001615/Exp-7-Synchornous-counters-/assets/144979337/bb5c51e5-8e04-40ac-9be7-9feb04624add)
+
 
 
 
